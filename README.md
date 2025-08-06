@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="C:\Users\lenovo\OneDrive\Pictures\Screenshots 1" alt="Project Banner">
+      <img src="https://drive.google.com/file/d/1vlVRTUgUEokIVZfslPigY-h2ObAnC61y/view?usp=drive_link" alt="Project Banner">
     </a>
   <br />
 
