@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
+      <img src="C:\Users\lenovo\OneDrive\Pictures\Screenshots 1" alt="Project Banner">
     </a>
   <br />
 
